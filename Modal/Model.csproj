@@ -7,8 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Dtos\" />
-    <Folder Include="Services\" />
     <Folder Include="Response\" />
     <Folder Include="Request\" />
     <Folder Include="OptionModels\" />
